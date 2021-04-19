@@ -14,4 +14,4 @@ int main()
     s2[i] = '\0';
     printf("String S2: %s",s2);
     return 0;
-}
+ }
